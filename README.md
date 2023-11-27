@@ -33,7 +33,7 @@ Usage
 
 Launch the game with the following command:
 npm start
-Open your web browser and go to http://localhost:3000 to play DinoWorld.
+Open your web browser and go to http://localhost:3000 to play Speedrush.
 
 **Controls**
 Jump: Spacebar
